@@ -1,4 +1,28 @@
-.banner{
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+/* footer */
+.ese{
+    color: rgb(194, 194, 194);
+}
+h2{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+h2 span ,h4 span{color: #ff7315;
+    
+}
+p{font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.bgimage{
+    background-image: url(../img/bg3.jpg);
+    background-position-y: bottom;
+}
+.btn-org{ font-weight: 700;
+    background-color: #ff7315;
+    color: rgb(255, 255, 255);
+}
+.whitey{
+    color: white;
 }
