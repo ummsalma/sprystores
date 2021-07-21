@@ -26,3 +26,32 @@ p{font-family: 'Lato', sans-serif;
 .whitey{
     color: white;
 }
+.manfation{
+
+   background-image: url(../img/left3.jpg);
+   background-size: cover;
+
+
+}
+.low {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+body{
+    overflow-x: hidden;
+}
+.navbar-brand span{
+    color: #ff7316;
+}
+.bg-tran{
+    background-color: rgba(38, 39, 39, 0.493);
+}
+
+
+
+
